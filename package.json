@@ -1,0 +1,34 @@
+{
+  "name": "books-store-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookstore",
+    "api",
+    "rest",
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "joi",
+    "crud"
+  ],
+  "author": "Ahmed Kandil",
+  "license": "ISC",
+  "description": "A RESTful API for managing book categories in a bookstore, built with Node.js, Express, Mongoose, and Joi.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ahmed-A-Kandil/Books-Store-API.git"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9"
+  }
+}
