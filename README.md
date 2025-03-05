@@ -88,7 +88,7 @@ node server.js
 
 By default, the server listens on http://localhost:3000.
 
-Endpoints
+## Endpoints
 
 The CRUD operations for categories are exposed under the /categories path.
 
