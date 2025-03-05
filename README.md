@@ -1,6 +1,6 @@
 # Book Store API
 
-![CRUD Banner](assets/banner.png)
+![CRUD Banner](assets/Banner.png)
 
 A simple Node.js + Express + Mongoose project demonstrating full **CRUD** (Create, Read, Update, Delete) operations for book categories.  
 This repository showcases how to set up a REST API, connect to MongoDB, validate requests (e.g., with Joi), and test endpoints in Postman.
