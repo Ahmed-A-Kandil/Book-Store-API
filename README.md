@@ -153,7 +153,7 @@ Success Response: 200 OK and the updated object (or 404 Not Found).
 
 ![Delete](assets/Delete.png)
 
-Contributing
+## Contributing
 
 1. Fork the repository.
 2. Create a new branch for your feature (git checkout -b feature-name).
